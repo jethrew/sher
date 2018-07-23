@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Hotel45 La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/h1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/qwert/h1.jpg",
     "price": 250,
     "priceCurrency": "₱",
     "lat": 16.568704,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Villa Marand La union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/h2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/qwert/h2.jpg",
     "price": 200,
     "priceCurrency": "₱",
     "lat": 16.544041,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Pugad Launion",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/h3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/qwert/h3.jpg",
     "price": 200,
     "priceCurrency": "₱",
     "lat": 16.336609,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Sea Bay La Union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/h4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/qwert/h4.jpg",
     "price": 300,
     "priceCurrency": "₱",
     "lat": 16.657479,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Thunderbird La union",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/h5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/qwert/h5.jpg",
     "price": 400,
     "priceCurrency": "₱",
     "lat": 16.608991,
